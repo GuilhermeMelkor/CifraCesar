@@ -1,0 +1,9 @@
+C:\Users\guilh\source\repos\Cesar\Cesar\bin\Debug\Cesar.exe.config
+C:\Users\guilh\source\repos\Cesar\Cesar\bin\Debug\Cesar.exe
+C:\Users\guilh\source\repos\Cesar\Cesar\bin\Debug\Cesar.pdb
+C:\Users\guilh\source\repos\Cesar\Cesar\obj\Debug\Cesar.exe
+C:\Users\guilh\source\repos\Cesar\Cesar\obj\Debug\Cesar.pdb
+C:\Users\guilh\source\repos\Cesar\Cesar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guilh\source\repos\Cesar\Cesar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guilh\source\repos\Cesar\Cesar\obj\Debug\Cesar.csproj.CopyComplete
+C:\Users\guilh\source\repos\Cesar\Cesar\obj\Debug\Cesar.csprojAssemblyReference.cache
